@@ -19,9 +19,9 @@
 
 - Data science practitioners apply machine learning algorithms to numbers, text, images, video, audio, and more to produce artificial intelligence (AI) systems that perform tasks which ordinarily require human intelligence. In turn, these systems generate insights that analysts and business users translate into tangible business value
 
-![Another definition](/images/imagen2.png)
+![Another definition](images/imagen2.png)
 
-![Another Venn Diagram](/images/imagen3.png)
+![Another Venn Diagram](images/imagen3.png)
 
 **¿Qué NO ES Data Science?**
 
