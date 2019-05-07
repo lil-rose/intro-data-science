@@ -44,7 +44,7 @@ Aunque la covarianza es similar a la correlación, difieren en lo siguiente:
 
 `correlación=covarianza/(desvest(X)-desvest(Y))`
 
-You can use $$\LaTeX$$ to typeset formulas. A formula can be displayed inline, e.g. $$e=mc^2$$, or as a block:
+<!-- You can use $$\LaTeX$$ to typeset formulas. A formula can be displayed inline, e.g. $$e=mc^2$$, or as a block: -->
 
 ## ANOVA (Análisis de Varianza)
 
