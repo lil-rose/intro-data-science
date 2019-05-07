@@ -13,15 +13,15 @@
 
 - It employs techniques and theories drawn from many fields within the context of mathematics, statistics, information science, and computer science.
 
-![Venn Diagram 1](/images/imagen1.png)
+![Venn Diagram 1](/images/Imagen1.png)
 
 - Is the field of study that combines domain expertise, programming skills, and knowledge of math and statistics to extract meaningful insights from data.
 
 - Data science practitioners apply machine learning algorithms to numbers, text, images, video, audio, and more to produce artificial intelligence (AI) systems that perform tasks which ordinarily require human intelligence. In turn, these systems generate insights that analysts and business users translate into tangible business value
 
-![Another definition](images/imagen2.png)
+![Another definition](images/Imagen2.png)
 
-![Another Venn Diagram](images/imagen3.png)
+![Another Venn Diagram](images/Imagen3.png)
 
 **¿Qué NO ES Data Science?**
 
