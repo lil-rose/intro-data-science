@@ -17,6 +17,7 @@ Es necesario para estimar otros parámetros básicos, como el coeficiente de cor
 <!-- !(Pearson correlation)[] -->
 
 **Interpretacion**
+
 |**Relacion**|**Interpretacion**|
 |---|---|
 |S(xy) > 0| Dependencia directa (positiva). |
@@ -41,7 +42,9 @@ Aunque la covarianza es similar a la correlación, difieren en lo siguiente:
 - El coeficiente de correlación es igual a la covarianza dividida entre el producto de las desviaciones estándar de las variables
 - Por lo tanto, una covarianza positiva -> correlación positiva y covarianza negativa -> correlación negativa.
 
-correlación = covarianza / (desvest(X) - desvest(Y))
+`correlación=covarianza/(desvest(X)-desvest(Y))`
+
+You can use $$\LaTeX$$ to typeset formulas. A formula can be displayed inline, e.g. $$e=mc^2$$, or as a block:
 
 ## ANOVA (Análisis de Varianza)
 
