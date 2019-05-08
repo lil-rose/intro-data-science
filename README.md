@@ -1,2 +1,5 @@
 # intro-data-science
-Learning data science from scratch (in spanish)
+
+My personal repoitory about learning data science from scratch (in spanglish)
+
+Formulas are made using [this page](http://latex.codecogs.com/eqneditor/editor.php)
