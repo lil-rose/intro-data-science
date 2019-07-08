@@ -10,11 +10,15 @@ Se grafican dos variables (x, y) utilizando las coordenadas cartesianas.
 
 Sirve para detectar a simple vista correlaciones entre dos variables.
 
-![Example scatterplot](images\plots\scatterplot_example.png)
+<!-- ![Example scatterplot](images\plots\scatterplot_example.png) -->
+
+<img src="images\plots\scatterplot_example.png" alt="Example scatterplot" width=500/>
 
 ### Diagramas de dispersion con distintas correlaciones:
 
-![Example scatterplot](images\plots\scatterplotcorrelation_example.png)
+<!-- ![Example scatterplot](images\plots\scatterplotcorrelation_example.png) -->
+
+<img src="images\plots\scatterplotcorrelation_example.png" alt="Scatterplot con distintas correlaciones" width=500/>
 
 ## Box plot
 
